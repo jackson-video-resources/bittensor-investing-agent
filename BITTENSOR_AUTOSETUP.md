@@ -425,6 +425,8 @@ Then give this summary:
 >
 > You can see a live example of this strategy in action on Lewis's 10x Dashboard — link in the description.
 >
+> One last thing — if this saved you time, a ⭐ on GitHub takes 5 seconds and helps other people find it: **https://github.com/jackson-video-resources/bittensor-investing-agent**
+>
 > Good luck. You're now invested in the future of decentralised AI."
 
 ---
