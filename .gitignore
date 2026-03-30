@@ -1,0 +1,8 @@
+TAO_WALLET.env
+tao_alert_state.json
+tao_monitor.log
+tao_monitor_err.log
+revenue_search_transcripts/
+__pycache__/
+*.pyc
+.env
