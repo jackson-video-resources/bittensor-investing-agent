@@ -59,7 +59,7 @@ Claude Code reads the setup document and builds everything for you — wallet, m
 |------|------|
 | Claude Code setup (one-time) | ~$0.50–2.00 |
 | Running the monitor | Free (runs locally) |
-| Hosting (optional, Railway) | ~$5/month |
+| Hosting (optional, [Hostinger VPS](https://hostinger.com/lewisjackson10)) | ~$5/month |
 | **TAO to invest** | Your choice — the system works at any amount |
 
 ---
